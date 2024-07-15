@@ -2,6 +2,7 @@
 
 Welcome to the Redux Price Card Management project! This project aims to create a cart page where users can manage price cards with per-item price, per-item quantity, total quantity, and total amount using Redux for state management.
 
+## Deployment Link: https://shoppingcart-redux-guvi.netlify.app/
 ## Introduction
 
 This project utilizes Redux to efficiently manage state and perform necessary operations on the price card management page. Users can add, update, delete price cards, and see the total quantity and amount dynamically updated based on the per-item quantity and price.
